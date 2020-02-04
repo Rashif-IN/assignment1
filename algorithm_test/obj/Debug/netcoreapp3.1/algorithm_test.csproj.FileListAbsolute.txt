@@ -1,0 +1,11 @@
+/Users/user/Projects/algorithm_test/algorithm_test/bin/Debug/netcoreapp3.1/algorithm_test
+/Users/user/Projects/algorithm_test/algorithm_test/bin/Debug/netcoreapp3.1/algorithm_test.deps.json
+/Users/user/Projects/algorithm_test/algorithm_test/bin/Debug/netcoreapp3.1/algorithm_test.runtimeconfig.json
+/Users/user/Projects/algorithm_test/algorithm_test/bin/Debug/netcoreapp3.1/algorithm_test.runtimeconfig.dev.json
+/Users/user/Projects/algorithm_test/algorithm_test/bin/Debug/netcoreapp3.1/algorithm_test.dll
+/Users/user/Projects/algorithm_test/algorithm_test/bin/Debug/netcoreapp3.1/algorithm_test.pdb
+/Users/user/Projects/algorithm_test/algorithm_test/obj/Debug/netcoreapp3.1/algorithm_test.csprojAssemblyReference.cache
+/Users/user/Projects/algorithm_test/algorithm_test/obj/Debug/netcoreapp3.1/algorithm_test.AssemblyInfoInputs.cache
+/Users/user/Projects/algorithm_test/algorithm_test/obj/Debug/netcoreapp3.1/algorithm_test.AssemblyInfo.cs
+/Users/user/Projects/algorithm_test/algorithm_test/obj/Debug/netcoreapp3.1/algorithm_test.dll
+/Users/user/Projects/algorithm_test/algorithm_test/obj/Debug/netcoreapp3.1/algorithm_test.pdb
